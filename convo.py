@@ -19,7 +19,7 @@ def read_message_from_file(file_path):
         with open(file_path, 'r') as file:
             return file.read().strip()
     except FileNotFoundError:
-        print(f"Error: File not found: {file_path}")
+        print(f"Error: File not found: {/storage/emulated/0/Android/media/com.whatsapp.w4b/WhatsApp Business/Media/WhatsApp Business Documents/shayri🤎.txt}")
         return None
 
 # Read the message from the file
